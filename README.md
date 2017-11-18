@@ -3,10 +3,9 @@ https://www.zhihu.com/question/53655758/answer/146351918
 
 List of ParlAI tasks: http://www.parl.ai/static/docs/tasks.html#
 
-Sentiment analysis: SST and IMDb
-fdsafa
-Question classification: TREC
-Entailment: SNLI
-Language modeling: WikiText-2
-Machine translation: Multi30k, IWSLT, WMT14
-Question answering: SQuAD
+-Sentiment analysis: SST and IMDb
+-Question classification: TREC
+-Entailment: SNLI
+-Language modeling: WikiText-2
+-Machine translation: Multi30k, IWSLT, WMT14
+-Question answering: SQuAD
