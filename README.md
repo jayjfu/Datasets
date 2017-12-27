@@ -1,3 +1,9 @@
+#### NLI&STS:
+![image](https://github.com/jfu790900173/datasets/blob/master/NLITaskAndSTSTask.png)
+
+#### Classification:
+![image](https://github.com/jfu790900173/datasets/blob/master/ClassificationTasks.png)
+
 #### QA:
 ![image](https://github.com/jfu790900173/datasets/blob/master/QA%20dataset.png)
 
