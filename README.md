@@ -1,4 +1,4 @@
-#### <u>VQA:<\u>
+#### $\underline{VQA}$:
 - VQA Challenge http://visualqa.org/  
 
 #### NLI&STS:
