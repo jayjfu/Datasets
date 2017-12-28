@@ -1,4 +1,4 @@
-#### VQA:
+#### <u>VQA:<\u>
 - VQA Challenge http://visualqa.org/  
 
 #### NLI&STS:
