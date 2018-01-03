@@ -1,3 +1,6 @@
+#### OpenAI Gym:
+- http://gym.openai.com/docs/  
+
 #### VQA:
 - VQA Challenge http://visualqa.org/  
 
