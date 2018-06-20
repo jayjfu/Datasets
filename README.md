@@ -1,5 +1,6 @@
 #### Sequence Tagging & Semantic Role Labeling
-- CoNLL
+- CoNLL03 NER
+- WSJ-PTB POS Tagging
 
 #### OpenAI Gym:
 - http://gym.openai.com/docs/  
