@@ -1,3 +1,6 @@
+#### Sequence Tagging & Semantic Role Labeling
+- CoNLL
+
 #### OpenAI Gym:
 - http://gym.openai.com/docs/  
 
