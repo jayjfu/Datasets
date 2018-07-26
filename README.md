@@ -1,5 +1,5 @@
 #### Sequence Tagging & Semantic Role Labeling
-- CoNLL03 NER
+- CoNLL03 NER  [[Introduction](https://arxiv.org/pdf/cs/0306050.pdf)]
 - WSJ-PTB POS Tagging
 
 #### OpenAI Gym:
