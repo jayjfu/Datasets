@@ -1,3 +1,6 @@
+#### nlp_chinese_corpus
+- https://github.com/brightmart/nlp_chinese_corpus
+
 #### Semantic Textual Similarity (STS) benchmark
 - 
 
