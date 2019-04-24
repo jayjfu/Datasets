@@ -30,13 +30,13 @@
 - VQA Challenge http://visualqa.org/  
 
 #### NLI&STS:
-![image](https://github.com/jfu790900173/datasets/blob/master/NLITaskAndSTSTask.png)
+![image](https://github.com/jayjfu/datasets/blob/master/NLITaskAndSTSTask.png)
 
 #### Classification:
-![image](https://github.com/jfu790900173/datasets/blob/master/ClassificationTasks.png)
+![image](https://github.com/jayjfu/datasets/blob/master/ClassificationTasks.png)
 
 #### QA:
-![image](https://github.com/jfu790900173/datasets/blob/master/QA%20dataset.png)
+![image](https://github.com/jayjfu/datasets/blob/master/QA%20dataset.png)
 
 #### Visual Dialog:
 - Visual Dialog [[arXiv](https://arxiv.org/abs/1611.08669)]
