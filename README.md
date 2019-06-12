@@ -32,10 +32,24 @@
 #### NLI&STS:
 ![image](https://github.com/jayjfu/datasets/blob/master/NLITaskAndSTSTask.png)
 
-#### Classification:
+#### Text Classification:
 ![image](https://github.com/jayjfu/datasets/blob/master/ClassificationTasks.png)
 
-#### QA:
+| Dataset        | Classes | Type      | Average lengths | Max lengths | Exceeding ratio | Train samples | Test samples |
+|----------------|---------|-----------|-----------------|-------------|-----------------|---------------|--------------|
+| IMDb           | 2       | Sentiment | 292             | 3,045       | 12\.69%         | 25,000        | 25,000       |
+| Yelp P\.       | 2       | Sentiment | 177             | 2,066       | 4\.60%          | 560,000       | 38,000       |
+| Yelp F\.       | 5       | Sentiment | 179             | 2,342       | 4\.60%          | 650,000       | 50,000       |
+| TREC           | 6       | Question  | 11              | 39          | 0\.00%          | 5,452         | 500          |
+| Yahoo\!Answers | 10      | Question  | 131             | 4,018       | 2\.65%          | 1,400,000     | 60,000       |
+| AG's News      | 4       | Topic     | 44              | 221         | 0\.00%          | 120,000       | 7,600        |
+| DBPedia        | 14      | Topic     | 67              | 3,841       | 0\.00%          | 560,000       | 70,000       |
+| Sogou News     | 6       | Topic     | 737             | 47,988      | 46\.23%         | 54,000        | 6,000        |
+
+Table 1： Statistics of eight text classification datasets. The exceeding ratio means the percentage of the number of
+samples with a length exceeding 512.
+
+#### Question Answering:
 ![image](https://github.com/jayjfu/datasets/blob/master/QA%20dataset.png)
 
 #### Visual Dialog:
