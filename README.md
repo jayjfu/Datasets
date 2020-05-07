@@ -1,4 +1,5 @@
-20200507: CDCS 中国数据竞赛优胜解集锦: https://github.com/geekinglcq/CDCS  
+20200507  
+CDCS 中国数据竞赛优胜解集锦: https://github.com/geekinglcq/CDCS  
 
 #### VisualData
 - https://www.visualdata.io/
